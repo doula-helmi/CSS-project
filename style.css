@@ -1,0 +1,19 @@
+
+
+nav ul li {
+ display: inline;   
+
+}
+
+html {
+    font-family: roboto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.nav, .footer{
+    text-align: center;
+}
+
