@@ -9,11 +9,8 @@ html {
     font-family: roboto;
 }
 
-h1 {
-    text-align: center;
-}
 
-.nav, .footer{
+h1, .nav, .footer{
     text-align: center;
 }
 
